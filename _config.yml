@@ -1,3 +1,8 @@
+---
+title: insert title here
+date: 2023-05-23
+---
+
 name: Andrew Kim
 status: College Student
 email: rainstorm111516@gmail.com
@@ -15,7 +20,4 @@ discord_username: RainDoesLife#1474
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
 
----
-title: "insert title here"
-date: 2023-05-23
----
+
